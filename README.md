@@ -48,16 +48,13 @@ Join the community to follow development, chat about Rust, game dev, and more:
 
 ### 📺 Twitch
 
-I stream **Monday, Wednesday, Friday, and Saturday**, from **5:00 AM to 11:00 AM EST**:  
+Watch live development **Monday, Wednesday, Friday, and Saturday**, from **5:00 AM to 11:00 AM EST**:  
 → [twitch.tv/cvusmo](https://www.twitch.tv/cvusmo)
-
-Hang out in chat and let me know what you're working on!  
-All active Twitch subscribers will be added to the **credits of Lustre** and other software I develop.
-
+ 
 ---
 
 ### 🐦 X (Twitter)
 
 → [@lustre_ge](https://www.x.com/lustre_ge)
 
-Follow for daily thoughts, spicy takes, memes, and Lustre development updates.
+Follow for weekly Lustre devblogs
