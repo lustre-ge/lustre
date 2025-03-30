@@ -37,12 +37,6 @@ It includes open-source dependencies. See [THIRD_PARTY_LICENSES](THIRD_PARTY_LIC
 
 ---
 
-## 🖼️ Logo
-
-[View Lustre Logo](https://github.com/cvusmo/lustre/blob/dev/assets/icon/logo.png?raw=true)
-
----
-
 ## 🌐 Community & Content
 
 ### 💬 Discord
