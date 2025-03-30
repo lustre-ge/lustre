@@ -2,7 +2,9 @@
 
 ![Lustre Logo](https://github.com/lustre-ge/lustre/blob/main/logo.png?raw=true)
 
-**Lustre** is a 3D voxel-based game engine built with performance, modularity, and creativity in mind. It aims to empower developers to craft immersive worlds with a focus on customization and extensibility.
+**Lustre** is a high-performance, modular, and creative 3D voxel-based game engine developed for our upcoming game project. Lustre emphasizes immersive worlds, extensive customization, and effortless extensibility, making it ideal for integrating complex gameplay mechanics, realistic physics, and stunning visual elements.
+
+Our mission is to continuously refine and evolve Lustre alongside our primary game, incorporating practical feedback and enhancements gained through active development. We aim to expand our indie development team and foster a collaborative environment to drive Lustre’s future capabilities.
 
 ---
 
@@ -10,9 +12,12 @@
 
 This project is in **active early development** and **not ready for public testing**. Many systems are still under construction. Documentation will grow alongside the project.
 
-💬 Feedback is welcome — but please note the engine is not yet functional for general use.
+💬 Feedback is welcome
+[Check out the full documentation on the Wiki](https://github.com/lustre-ge/lustre/wiki)
 
 ---
+
+
 
 ## ✨ Planned Features
 
@@ -41,14 +46,15 @@ It includes open-source dependencies. See [THIRD_PARTY_LICENSES](THIRD_PARTY_LIC
 
 ### 💬 Discord
 
-Join the community to follow development, chat about Rust, game dev, and more:  
-→ ![discord](https://discord.gg/WZH4XNgpem)
+Join our active and passionate community on Discord to get stream schedules, gain access to our private Lustre server, follow ongoing development, and chat about Rust, game development, and more!
+
+→ [Join the Lustre Discord](https://discord.gg/WZH4XNgpem)
 
 ---
 
 ### 📺 Twitch
 
-Watch live development **Monday, Wednesday, Friday, and Saturday**, from **5:00 AM to 11:00 AM EST**:  
+Watch live development **Monday, Wednesday, Friday, and Saturday**:  
 → [twitch.tv/cvusmo](https://www.twitch.tv/cvusmo)
  
 ---
