@@ -1,6 +1,6 @@
 # Lustre
 
-![Lustre Logo](https://github.com/cvusmo/lustre/blob/dev/assets/icon/logo.png?raw=true)
+![Lustre Logo](https://github.com/lustre-ge/lustre/blob/main/logo4.png?raw=true)
 
 **Lustre** is a 3D voxel-based game engine built with performance, modularity, and creativity in mind. It aims to empower developers to craft immersive worlds with a focus on customization and extensibility.
 
