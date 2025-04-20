@@ -1,7 +1,4 @@
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lustre-ge/lustre/master/preview.png" alt="Lustre Preview" width="600"/>
-</p>
+![lustre-preview](https://github.com/lustre-ge/lustre/blob/master/assets/preview.png?raw=true)
 
 # Lustre
 
