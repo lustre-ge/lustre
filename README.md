@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lustre-ge/lustre/master/logo.png" alt="Lustre Logo" width="600"/>
+  <img src="https://raw.githubusercontent.com/lustre-ge/lustre/master/preview.png" alt="Lustre Preview" width="600"/>
 </p>
 
 # Lustre
