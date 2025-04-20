@@ -10,7 +10,7 @@ Our mission is to continuously refine and evolve Lustre alongside our primary ga
 
 ## 🚧 Status: Early Development
 
-This project is in **active early development** and **not ready for public testing**. Many systems are still under construction. Documentation will grow alongside the project.
+This project is in **active early development**. Many systems are still under construction. Documentation will grow alongside the project.
 
 💬 Feedback is welcome
 [Check out the full documentation on the Wiki](https://github.com/lustre-ge/lustre/wiki)
