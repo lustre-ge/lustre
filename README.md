@@ -1,6 +1,7 @@
-![Lustre Logo](https://github.com/lustre-ge/lustre/blob/master/logo.png?raw=true)
-- ![Lustre Wiki](https://github.com/lustre-ge/lustre/wiki/Devblog)
-- ![Lustre Devblog](https://github.com/lustre-ge/lustre/wiki)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lustre-ge/lustre/master/logo.png" alt="Lustre Logo" width="600"/>
+</p>
+
 ---
 # Lustre
 ---
