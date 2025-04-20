@@ -1,8 +1,8 @@
 # Lustre
 
 ![Lustre Logo](https://github.com/lustre-ge/lustre/blob/master/logo.png?raw=true)
-![Lustre Wiki](https://github.com/lustre-ge/lustre/wiki/Devblog)
-![Lustre Devblog](https://github.com/lustre-ge/lustre/wiki)
+- ![Lustre Wiki](https://github.com/lustre-ge/lustre/wiki/Devblog)
+- ![Lustre Devblog](https://github.com/lustre-ge/lustre/wiki)
 
 **Lustre** is a high-performance, modular, and creative 3D voxel-based game engine developed for our upcoming game project. Lustre emphasizes immersive worlds, extensive customization, and effortless extensibility, making it ideal for integrating complex gameplay mechanics, realistic physics, and stunning visual elements.
 
