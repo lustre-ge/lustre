@@ -1,66 +1,57 @@
-![lustre-preview](https://github.com/lustre-ge/lustre/blob/master/assets/preview.png?raw=true)
-
 # Lustre
+![Lustre Logo](https://github.com/cvusmo/lustre/blob/master/assets/icon/logo.png?raw=true)
+![Lustre Wiki](https://github.com/lustre-ge/lustre/wiki/weeklydevblog_2025-04-20)
 
-**Lustre** is a high-performance, modular, and creative 3D voxel-based game engine developed for our upcoming game project. Lustre emphasizes immersive worlds, extensive customization, and effortless extensibility, making it ideal for integrating complex gameplay mechanics, realistic physics, and stunning visual elements.
-
-Our mission is to continuously refine and evolve Lustre alongside our primary game, incorporating practical feedback and enhancements gained through active development. We aim to expand our indie development team and foster a collaborative environment to drive Lustre’s future capabilities.
+**Lustre** is a 3D voxel engine designed for innovative imaging software, developed by Acris Software Ltd. Co. It focuses on performance, modularity, and advanced visualization to empower global health applications through cutting-edge imaging technology.
 
 ---
 
 ## 🚧 Status: Early Development
-
-This project is in **active early development**. Many systems are still under construction. Documentation will grow alongside the project.
-
-💬 Feedback is welcome
-[Check out the full documentation on the Wiki](https://github.com/lustre-ge/lustre/wiki)
+This project is in **active early development** and **not ready for public use**. Many systems are still being constructed. Documentation will expand as the project progresses.
+💬 Feedback is welcome — please note the engine is not yet functional for general deployment.
 
 ---
 
-
-
 ## ✨ Planned Features
-
-- **Voxel-Based Rendering** – High-performance real-time voxel terrain  
-- **Multiplayer Support** – Seamless online worlds with friends  
-- **Cross-Platform Support** – Linux (X11 + Wayland) & Windows  
+- **Voxel-Based Imaging** – High-performance real-time voxel rendering for medical and scientific visualization
+- **Data Integration** – Seamless processing of imaging data for health diagnostics
+- **Cross-Platform Support** – Linux (X11 + Wayland) & Windows
 
 ---
 
 ## 🛠️ Tech Stack
-
-- **Language:** Rust  
-- **Graphics:** Vulkan (via Vulkano)  
-- **Scripting:** Lua 5.4 *(planned)*  
+- **Language:** Rust
+- **Graphics:** Vulkan (via Vulkano)
+- **Scripting:** Lua 5.4 *(planned)*
 
 ---
 
 ## 📄 License
-
-Lustre is **proprietary software** licensed under the terms outlined in the [LICENSE](LICENSE).  
+Lustre is **proprietary software** licensed under the terms outlined in the [LICENSE](LICENSE).
 It includes open-source dependencies. See [THIRD_PARTY_LICENSES](THIRD_PARTY_LICENSES) for full details.
 
 ---
 
+## 🖼️ Logo
+[View Lustre Logo](https://github.com/cvusmo/lustre/blob/dev/assets/icon/logo.png?raw=true)
+
+---
+
 ## 🌐 Community & Content
-
 ### 💬 Discord
-
-Join our active and passionate community on Discord to get stream schedules, gain access to our private Lustre server, follow ongoing development, and chat about Rust, game development, and more!
-
-→ [Join the Lustre Discord](https://discord.gg/WZH4XNgpem)
+Join the community to follow development, discuss imaging software, Rust, and more:
+→ ![discord](https://discord.gg/WZH4XNgpem)
 
 ---
 
 ### 📺 Twitch
-
-Watch live development **Monday, Wednesday, Friday, and Saturday**:  
+I stream **Monday, Wednesday, Friday, and Saturday**, from **5:00 AM to 11:00 AM EST**:
 → [twitch.tv/cvusmo](https://www.twitch.tv/cvusmo)
- 
+Hang out in chat and share your imaging projects!
+All active Twitch subscribers will be added to the **credits of Lustre** and other Acris Software developments.
+
 ---
 
 ### 🐦 X (Twitter)
-
-→ [@lustre_ge](https://www.x.com/lustre_ge)
-
-Follow for weekly Lustre devblogs
+→ [@cvusmo](https://www.x.com/cvusmo)
+Follow for updates on Lustre, Acris Software, and imaging technology advancements.
