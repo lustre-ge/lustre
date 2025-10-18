@@ -36,22 +36,3 @@ It includes open-source dependencies. See [THIRD_PARTY_LICENSES](THIRD_PARTY_LIC
 [View Lustre Logo](https://github.com/cvusmo/lustre/blob/dev/assets/icon/logo.png?raw=true)
 
 ---
-
-## 🌐 Community & Content
-### 💬 Discord
-Join the community to follow development, discuss imaging software, Rust, and more:
-→ ![discord](https://discord.gg/WZH4XNgpem)
-
----
-
-### 📺 Twitch
-I stream **Monday, Wednesday, Friday, and Saturday**, from **5:00 AM to 11:00 AM EST**:
-→ [twitch.tv/cvusmo](https://www.twitch.tv/cvusmo)
-Hang out in chat and share your imaging projects!
-All active Twitch subscribers will be added to the **credits of Lustre** and other Acris Software developments.
-
----
-
-### 🐦 X (Twitter)
-→ [@cvusmo](https://www.x.com/cvusmo)
-Follow for updates on Lustre, Acris Software, and imaging technology advancements.
